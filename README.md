@@ -28,3 +28,7 @@ golang run server.txt if needed
 1. Golang
 2. Gin
 3. GORM
+
+## Databases
+
+1. PostgreSQL
