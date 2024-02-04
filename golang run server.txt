@@ -1,0 +1,3 @@
+go get -u gorm.io/driver/postgres
+CompileDaemon -command="./casestudy2"
+go run migrate/migrate.go
